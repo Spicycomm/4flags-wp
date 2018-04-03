@@ -192,7 +192,7 @@
 							<div class="event-data">
 								<h4 class="title-event"><strong><?= the_title(); ?></strong></h4>
 								<span class="date-event"><?= the_field("data"); ?></span>
-								<span class="hour-event"><?= the_field("hora"); ?>h</span>
+								<span class="hour-event"><?= the_field("hora"); ?></span>
 							</div>
 							<div class="event-description">
 								<p>
